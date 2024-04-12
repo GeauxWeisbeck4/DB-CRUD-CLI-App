@@ -29,6 +29,7 @@ Here is the file structure and what each file does in the app:
 - [x] Remove data form the database
 - [x] Push to GitHub and publish repository
 - [ ] Create a YouTube tutorial for a similar application
+- [ ] Write Hash node and portfolio blog post tutorial
 
 ## Resources
 
