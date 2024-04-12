@@ -1,4 +1,4 @@
-# Node CLI App
+# Node CRUD DB CLI App
 
 
 A CLI app created with Node.js that allows the user to run CRUD functions on a db.json file, and if it doesn't exist, creates the database file using the `fs` module of Node.js. The example used for this specific application asks for the users name, phone number, and if they are an adult and generates a random `uuid` and stores it in the database. You can then update the entry with the id number, retrieve all entries, or delete the entry using the id number.
